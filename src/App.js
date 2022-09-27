@@ -9,7 +9,7 @@ function App() {
   return (
     <div id="colorlib-page">
     <div id="container-wrap">
-    <Introduction></Introduction>
+         <Sidebar></Sidebar>
             <div id="colorlib-main">
                 <Introduction></Introduction>
                 <About></About>
